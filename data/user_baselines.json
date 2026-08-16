@@ -1,0 +1,2643 @@
+{
+    "E001": {
+        "entity_id": "E001",
+        "department": "IT",
+        "role": "Software Developer",
+        "normal_source_ip": "10.28.25.113",
+        "normal_geo_location": [
+            18.5204,
+            73.8567
+        ],
+        "normal_device_id": "DEV001",
+        "normal_mac_address": "66:be:fd:06:93:39",
+        "normal_os_version": "Windows 11",
+        "normal_resources": [
+            "Development Server",
+            "Documentation Portal",
+            "Code Repository",
+            "Monitoring System"
+        ],
+        "avg_working_start_hour": 10,
+        "avg_working_end_hour": 19,
+        "avg_events_per_day": 3.8,
+        "avg_event_gap_minutes": 105.29761904761905,
+        "std_event_gap_minutes": 78.59056317884985,
+        "auth_failure_rate": 0.0,
+        "avg_data_downloaded": 23.817631578947367,
+        "std_data_downloaded": 14.08010026755778
+    },
+    "E002": {
+        "entity_id": "E002",
+        "department": "IT",
+        "role": "Security Analyst",
+        "normal_source_ip": "172.22.243.142",
+        "normal_geo_location": [
+            28.6139,
+            77.209
+        ],
+        "normal_device_id": "DEV002",
+        "normal_mac_address": "44:b3:ab:80:ed:0a",
+        "normal_os_version": "Windows 11",
+        "normal_resources": [
+            "Code Repository",
+            "Documentation Portal"
+        ],
+        "avg_working_start_hour": 8,
+        "avg_working_end_hour": 17,
+        "avg_events_per_day": 4.5,
+        "avg_event_gap_minutes": 94.44761904761904,
+        "std_event_gap_minutes": 93.49135922150373,
+        "auth_failure_rate": 0.02962962962962963,
+        "avg_data_downloaded": 22.930592592592593,
+        "std_data_downloaded": 12.623521799849993
+    },
+    "E003": {
+        "entity_id": "E003",
+        "department": "IT",
+        "role": "Security Analyst",
+        "normal_source_ip": "172.30.140.198",
+        "normal_geo_location": [
+            19.076,
+            72.8777
+        ],
+        "normal_device_id": "DEV003",
+        "normal_mac_address": "d4:1f:c4:e5:1c:d4",
+        "normal_os_version": "Ubuntu Linux",
+        "normal_resources": [
+            "Development Server",
+            "IT Helpdesk",
+            "Monitoring System",
+            "Documentation Portal",
+            "Code Repository"
+        ],
+        "avg_working_start_hour": 8,
+        "avg_working_end_hour": 19,
+        "avg_events_per_day": 3.8666666666666667,
+        "avg_event_gap_minutes": 131.38372093023256,
+        "std_event_gap_minutes": 112.43070217114929,
+        "auth_failure_rate": 0.017241379310344827,
+        "avg_data_downloaded": 27.17543103448276,
+        "std_data_downloaded": 15.817296553057869
+    },
+    "E004": {
+        "entity_id": "E004",
+        "department": "IT",
+        "role": "DevOps Engineer",
+        "normal_source_ip": "10.192.202.84",
+        "normal_geo_location": [
+            22.5726,
+            88.3639
+        ],
+        "normal_device_id": "DEV004",
+        "normal_mac_address": "90:7c:db:f5:54:72",
+        "normal_os_version": "Windows 11",
+        "normal_resources": [
+            "Development Server",
+            "Monitoring System",
+            "Code Repository"
+        ],
+        "avg_working_start_hour": 8,
+        "avg_working_end_hour": 18,
+        "avg_events_per_day": 3.8333333333333335,
+        "avg_event_gap_minutes": 113.28235294117647,
+        "std_event_gap_minutes": 90.08073254225978,
+        "auth_failure_rate": 0.017391304347826087,
+        "avg_data_downloaded": 27.932782608695653,
+        "std_data_downloaded": 14.264073293628671
+    },
+    "E005": {
+        "entity_id": "E005",
+        "department": "IT",
+        "role": "DevOps Engineer",
+        "normal_source_ip": "172.30.183.39",
+        "normal_geo_location": [
+            22.5726,
+            88.3639
+        ],
+        "normal_device_id": "DEV005",
+        "normal_mac_address": "6a:aa:0e:11:f4:7f",
+        "normal_os_version": "macOS",
+        "normal_resources": [
+            "Code Repository",
+            "IT Helpdesk",
+            "Monitoring System",
+            "Documentation Portal"
+        ],
+        "avg_working_start_hour": 9,
+        "avg_working_end_hour": 17,
+        "avg_events_per_day": 4.066666666666666,
+        "avg_event_gap_minutes": 71.66304347826087,
+        "std_event_gap_minutes": 65.28084335635356,
+        "auth_failure_rate": 0.01639344262295082,
+        "avg_data_downloaded": 25.189754098360655,
+        "std_data_downloaded": 14.587582711351468
+    },
+    "E006": {
+        "entity_id": "E006",
+        "department": "IT",
+        "role": "Security Analyst",
+        "normal_source_ip": "172.16.23.35",
+        "normal_geo_location": [
+            22.5726,
+            88.3639
+        ],
+        "normal_device_id": "DEV006",
+        "normal_mac_address": "6c:90:54:b4:b1:ad",
+        "normal_os_version": "Windows 11",
+        "normal_resources": [
+            "Code Repository",
+            "Documentation Portal",
+            "Monitoring System"
+        ],
+        "avg_working_start_hour": 8,
+        "avg_working_end_hour": 18,
+        "avg_events_per_day": 3.6666666666666665,
+        "avg_event_gap_minutes": 126.2875,
+        "std_event_gap_minutes": 102.19009262959678,
+        "auth_failure_rate": 0.00909090909090909,
+        "avg_data_downloaded": 21.266363636363636,
+        "std_data_downloaded": 13.942262707603808
+    },
+    "E007": {
+        "entity_id": "E007",
+        "department": "IT",
+        "role": "System Administrator",
+        "normal_source_ip": "192.168.122.127",
+        "normal_geo_location": [
+            18.5204,
+            73.8567
+        ],
+        "normal_device_id": "DEV007",
+        "normal_mac_address": "18:e0:9f:a1:88:a4",
+        "normal_os_version": "Windows 10",
+        "normal_resources": [
+            "Monitoring System",
+            "IT Helpdesk",
+            "Documentation Portal",
+            "Development Server",
+            "Code Repository"
+        ],
+        "avg_working_start_hour": 9,
+        "avg_working_end_hour": 18,
+        "avg_events_per_day": 4.166666666666667,
+        "avg_event_gap_minutes": 108.03157894736842,
+        "std_event_gap_minutes": 82.20866711976338,
+        "auth_failure_rate": 0.008,
+        "avg_data_downloaded": 26.6396,
+        "std_data_downloaded": 13.250047620121366
+    },
+    "E008": {
+        "entity_id": "E008",
+        "department": "IT",
+        "role": "DevOps Engineer",
+        "normal_source_ip": "192.168.166.168",
+        "normal_geo_location": [
+            17.385,
+            78.4867
+        ],
+        "normal_device_id": "DEV008",
+        "normal_mac_address": "24:c7:07:00:a9:00",
+        "normal_os_version": "Windows 10",
+        "normal_resources": [
+            "Documentation Portal",
+            "Development Server"
+        ],
+        "avg_working_start_hour": 10,
+        "avg_working_end_hour": 19,
+        "avg_events_per_day": 4.2,
+        "avg_event_gap_minutes": 94.35416666666667,
+        "std_event_gap_minutes": 83.54525772130515,
+        "auth_failure_rate": 0.023809523809523808,
+        "avg_data_downloaded": 25.897380952380953,
+        "std_data_downloaded": 15.50420181388627
+    },
+    "E009": {
+        "entity_id": "E009",
+        "department": "IT",
+        "role": "System Administrator",
+        "normal_source_ip": "10.114.227.109",
+        "normal_geo_location": [
+            28.6139,
+            77.209
+        ],
+        "normal_device_id": "DEV009",
+        "normal_mac_address": "c2:77:05:a8:11:d1",
+        "normal_os_version": "macOS",
+        "normal_resources": [
+            "Monitoring System",
+            "Development Server",
+            "Documentation Portal",
+            "IT Helpdesk",
+            "Code Repository"
+        ],
+        "avg_working_start_hour": 8,
+        "avg_working_end_hour": 17,
+        "avg_events_per_day": 3.8666666666666667,
+        "avg_event_gap_minutes": 105.96511627906976,
+        "std_event_gap_minutes": 103.91347618820059,
+        "auth_failure_rate": 0.04310344827586207,
+        "avg_data_downloaded": 23.42491379310345,
+        "std_data_downloaded": 14.09843725509966
+    },
+    "E010": {
+        "entity_id": "E010",
+        "department": "IT",
+        "role": "IT Support",
+        "normal_source_ip": "192.168.153.76",
+        "normal_geo_location": [
+            22.5726,
+            88.3639
+        ],
+        "normal_device_id": "DEV010",
+        "normal_mac_address": "42:3f:53:af:55:ce",
+        "normal_os_version": "Ubuntu Linux",
+        "normal_resources": [
+            "Development Server",
+            "Monitoring System"
+        ],
+        "avg_working_start_hour": 8,
+        "avg_working_end_hour": 19,
+        "avg_events_per_day": 4.033333333333333,
+        "avg_event_gap_minutes": 134.52747252747253,
+        "std_event_gap_minutes": 102.0036318154452,
+        "auth_failure_rate": 0.04132231404958678,
+        "avg_data_downloaded": 23.331818181818182,
+        "std_data_downloaded": 13.892949950724407
+    },
+    "E011": {
+        "entity_id": "E011",
+        "department": "IT",
+        "role": "IT Support",
+        "normal_source_ip": "172.31.158.34",
+        "normal_geo_location": [
+            17.385,
+            78.4867
+        ],
+        "normal_device_id": "DEV011",
+        "normal_mac_address": "1c:ca:34:ab:74:90",
+        "normal_os_version": "Ubuntu Linux",
+        "normal_resources": [
+            "Development Server",
+            "Monitoring System",
+            "Code Repository",
+            "IT Helpdesk",
+            "Documentation Portal"
+        ],
+        "avg_working_start_hour": 10,
+        "avg_working_end_hour": 19,
+        "avg_events_per_day": 4.066666666666666,
+        "avg_event_gap_minutes": 108.08695652173913,
+        "std_event_gap_minutes": 91.00678059195576,
+        "auth_failure_rate": 0.03278688524590164,
+        "avg_data_downloaded": 25.56983606557377,
+        "std_data_downloaded": 13.947209264003144
+    },
+    "E012": {
+        "entity_id": "E012",
+        "department": "IT",
+        "role": "Security Analyst",
+        "normal_source_ip": "172.20.66.147",
+        "normal_geo_location": [
+            28.6139,
+            77.209
+        ],
+        "normal_device_id": "DEV012",
+        "normal_mac_address": "70:18:ea:cf:6a:c9",
+        "normal_os_version": "Windows 11",
+        "normal_resources": [
+            "Development Server",
+            "Documentation Portal",
+            "Monitoring System",
+            "IT Helpdesk"
+        ],
+        "avg_working_start_hour": 8,
+        "avg_working_end_hour": 17,
+        "avg_events_per_day": 4.133333333333334,
+        "avg_event_gap_minutes": 117.01063829787235,
+        "std_event_gap_minutes": 100.55785203573019,
+        "auth_failure_rate": 0.016129032258064516,
+        "avg_data_downloaded": 24.59798387096774,
+        "std_data_downloaded": 14.99120950987089
+    },
+    "E013": {
+        "entity_id": "E013",
+        "department": "IT",
+        "role": "System Administrator",
+        "normal_source_ip": "10.220.185.126",
+        "normal_geo_location": [
+            17.385,
+            78.4867
+        ],
+        "normal_device_id": "DEV013",
+        "normal_mac_address": "4e:4e:10:e8:3d:88",
+        "normal_os_version": "Ubuntu Linux",
+        "normal_resources": [
+            "IT Helpdesk",
+            "Code Repository",
+            "Development Server"
+        ],
+        "avg_working_start_hour": 9,
+        "avg_working_end_hour": 19,
+        "avg_events_per_day": 3.9,
+        "avg_event_gap_minutes": 97.32183908045977,
+        "std_event_gap_minutes": 80.90081412946975,
+        "auth_failure_rate": 0.03418803418803419,
+        "avg_data_downloaded": 24.154786324786325,
+        "std_data_downloaded": 13.703075202196503
+    },
+    "E014": {
+        "entity_id": "E014",
+        "department": "IT",
+        "role": "Security Analyst",
+        "normal_source_ip": "192.168.188.126",
+        "normal_geo_location": [
+            22.5726,
+            88.3639
+        ],
+        "normal_device_id": "DEV014",
+        "normal_mac_address": "c6:a0:2b:e0:88:03",
+        "normal_os_version": "Windows 11",
+        "normal_resources": [
+            "Code Repository",
+            "Monitoring System"
+        ],
+        "avg_working_start_hour": 10,
+        "avg_working_end_hour": 18,
+        "avg_events_per_day": 3.7666666666666666,
+        "avg_event_gap_minutes": 92.144578313253,
+        "std_event_gap_minutes": 83.7799284027724,
+        "auth_failure_rate": 0.008849557522123894,
+        "avg_data_downloaded": 24.89203539823009,
+        "std_data_downloaded": 15.24724144601316
+    },
+    "E015": {
+        "entity_id": "E015",
+        "department": "IT",
+        "role": "DevOps Engineer",
+        "normal_source_ip": "10.94.47.166",
+        "normal_geo_location": [
+            28.6139,
+            77.209
+        ],
+        "normal_device_id": "DEV015",
+        "normal_mac_address": "16:ee:b3:95:9d:c1",
+        "normal_os_version": "Windows 10",
+        "normal_resources": [
+            "IT Helpdesk",
+            "Code Repository",
+            "Monitoring System"
+        ],
+        "avg_working_start_hour": 10,
+        "avg_working_end_hour": 18,
+        "avg_events_per_day": 4.366666666666666,
+        "avg_event_gap_minutes": 85.5940594059406,
+        "std_event_gap_minutes": 79.5072547907198,
+        "auth_failure_rate": 0.022900763358778626,
+        "avg_data_downloaded": 24.478625954198474,
+        "std_data_downloaded": 14.412748564184353
+    },
+    "E016": {
+        "entity_id": "E016",
+        "department": "IT",
+        "role": "Security Analyst",
+        "normal_source_ip": "10.193.160.137",
+        "normal_geo_location": [
+            18.5204,
+            73.8567
+        ],
+        "normal_device_id": "DEV016",
+        "normal_mac_address": "56:1c:e4:2c:5d:aa",
+        "normal_os_version": "Windows 11",
+        "normal_resources": [
+            "Documentation Portal",
+            "Development Server",
+            "Code Repository",
+            "IT Helpdesk"
+        ],
+        "avg_working_start_hour": 8,
+        "avg_working_end_hour": 19,
+        "avg_events_per_day": 3.8666666666666667,
+        "avg_event_gap_minutes": 108.47674418604652,
+        "std_event_gap_minutes": 103.67967941401349,
+        "auth_failure_rate": 0.02586206896551724,
+        "avg_data_downloaded": 25.28913793103448,
+        "std_data_downloaded": 14.206388983342213
+    },
+    "E017": {
+        "entity_id": "E017",
+        "department": "IT",
+        "role": "Security Analyst",
+        "normal_source_ip": "192.168.65.6",
+        "normal_geo_location": [
+            22.5726,
+            88.3639
+        ],
+        "normal_device_id": "DEV017",
+        "normal_mac_address": "9a:4f:09:f7:46:c4",
+        "normal_os_version": "Windows 11",
+        "normal_resources": [
+            "Code Repository",
+            "Documentation Portal",
+            "Development Server",
+            "Monitoring System",
+            "IT Helpdesk"
+        ],
+        "avg_working_start_hour": 8,
+        "avg_working_end_hour": 17,
+        "avg_events_per_day": 3.966666666666667,
+        "avg_event_gap_minutes": 98.29213483146067,
+        "std_event_gap_minutes": 86.36566055904277,
+        "auth_failure_rate": 0.025210084033613446,
+        "avg_data_downloaded": 23.80546218487395,
+        "std_data_downloaded": 15.259687378670126
+    },
+    "E018": {
+        "entity_id": "E018",
+        "department": "IT",
+        "role": "Software Developer",
+        "normal_source_ip": "10.27.233.233",
+        "normal_geo_location": [
+            17.385,
+            78.4867
+        ],
+        "normal_device_id": "DEV018",
+        "normal_mac_address": "ae:f8:88:dc:05:cd",
+        "normal_os_version": "Ubuntu Linux",
+        "normal_resources": [
+            "Code Repository",
+            "Development Server",
+            "Documentation Portal",
+            "IT Helpdesk",
+            "Monitoring System"
+        ],
+        "avg_working_start_hour": 9,
+        "avg_working_end_hour": 19,
+        "avg_events_per_day": 4.166666666666667,
+        "avg_event_gap_minutes": 112.26315789473684,
+        "std_event_gap_minutes": 108.93841814240017,
+        "auth_failure_rate": 0.032,
+        "avg_data_downloaded": 23.99312,
+        "std_data_downloaded": 14.724660487679142
+    },
+    "E019": {
+        "entity_id": "E019",
+        "department": "IT",
+        "role": "System Administrator",
+        "normal_source_ip": "172.28.43.192",
+        "normal_geo_location": [
+            12.9716,
+            77.5946
+        ],
+        "normal_device_id": "DEV019",
+        "normal_mac_address": "a0:27:81:c9:94:5f",
+        "normal_os_version": "Ubuntu Linux",
+        "normal_resources": [
+            "Monitoring System",
+            "IT Helpdesk",
+            "Documentation Portal"
+        ],
+        "avg_working_start_hour": 10,
+        "avg_working_end_hour": 18,
+        "avg_events_per_day": 3.966666666666667,
+        "avg_event_gap_minutes": 99.32584269662921,
+        "std_event_gap_minutes": 92.2592413800397,
+        "auth_failure_rate": 0.01680672268907563,
+        "avg_data_downloaded": 24.337142857142858,
+        "std_data_downloaded": 14.842234809503447
+    },
+    "E020": {
+        "entity_id": "E020",
+        "department": "IT",
+        "role": "Security Analyst",
+        "normal_source_ip": "192.168.244.243",
+        "normal_geo_location": [
+            28.6139,
+            77.209
+        ],
+        "normal_device_id": "DEV020",
+        "normal_mac_address": "d8:5c:e0:08:69:1f",
+        "normal_os_version": "Windows 11",
+        "normal_resources": [
+            "Development Server",
+            "Documentation Portal"
+        ],
+        "avg_working_start_hour": 8,
+        "avg_working_end_hour": 18,
+        "avg_events_per_day": 3.8,
+        "avg_event_gap_minutes": 127.88095238095238,
+        "std_event_gap_minutes": 102.80023964646774,
+        "auth_failure_rate": 0.043859649122807015,
+        "avg_data_downloaded": 26.912280701754387,
+        "std_data_downloaded": 14.15709384926131
+    },
+    "E021": {
+        "entity_id": "E021",
+        "department": "Finance",
+        "role": "Finance Manager",
+        "normal_source_ip": "10.128.10.186",
+        "normal_geo_location": [
+            12.9716,
+            77.5946
+        ],
+        "normal_device_id": "DEV021",
+        "normal_mac_address": "44:49:b6:c9:e9:cf",
+        "normal_os_version": "Windows 11",
+        "normal_resources": [
+            "Banking Portal",
+            "Payroll System",
+            "Accounting System"
+        ],
+        "avg_working_start_hour": 8,
+        "avg_working_end_hour": 19,
+        "avg_events_per_day": 4.266666666666667,
+        "avg_event_gap_minutes": 133.85714285714286,
+        "std_event_gap_minutes": 118.24324047287342,
+        "auth_failure_rate": 0.015625,
+        "avg_data_downloaded": 24.74578125,
+        "std_data_downloaded": 14.01411490989271
+    },
+    "E022": {
+        "entity_id": "E022",
+        "department": "Finance",
+        "role": "Accountant",
+        "normal_source_ip": "10.158.131.119",
+        "normal_geo_location": [
+            18.5204,
+            73.8567
+        ],
+        "normal_device_id": "DEV022",
+        "normal_mac_address": "ee:f8:f1:92:49:c8",
+        "normal_os_version": "macOS",
+        "normal_resources": [
+            "Financial Reports",
+            "Accounting System"
+        ],
+        "avg_working_start_hour": 10,
+        "avg_working_end_hour": 17,
+        "avg_events_per_day": 4.2,
+        "avg_event_gap_minutes": 65.25,
+        "std_event_gap_minutes": 56.952057400108586,
+        "auth_failure_rate": 0.05555555555555555,
+        "avg_data_downloaded": 23.971349206349206,
+        "std_data_downloaded": 13.730740015202361
+    },
+    "E023": {
+        "entity_id": "E023",
+        "department": "Finance",
+        "role": "Finance Manager",
+        "normal_source_ip": "192.168.109.12",
+        "normal_geo_location": [
+            28.6139,
+            77.209
+        ],
+        "normal_device_id": "DEV023",
+        "normal_mac_address": "ee:f2:ab:43:44:2d",
+        "normal_os_version": "Ubuntu Linux",
+        "normal_resources": [
+            "Banking Portal",
+            "Payroll System",
+            "Financial Reports"
+        ],
+        "avg_working_start_hour": 10,
+        "avg_working_end_hour": 19,
+        "avg_events_per_day": 4.033333333333333,
+        "avg_event_gap_minutes": 107.87912087912088,
+        "std_event_gap_minutes": 91.24969834529563,
+        "auth_failure_rate": 0.01652892561983471,
+        "avg_data_downloaded": 23.497685950413224,
+        "std_data_downloaded": 15.542100928356424
+    },
+    "E024": {
+        "entity_id": "E024",
+        "department": "Finance",
+        "role": "Accountant",
+        "normal_source_ip": "192.168.172.52",
+        "normal_geo_location": [
+            28.6139,
+            77.209
+        ],
+        "normal_device_id": "DEV024",
+        "normal_mac_address": "26:78:6d:87:de:54",
+        "normal_os_version": "Ubuntu Linux",
+        "normal_resources": [
+            "Payroll System",
+            "Accounting System",
+            "Invoice System",
+            "Banking Portal",
+            "Financial Reports"
+        ],
+        "avg_working_start_hour": 9,
+        "avg_working_end_hour": 18,
+        "avg_events_per_day": 3.8,
+        "avg_event_gap_minutes": 103.27380952380952,
+        "std_event_gap_minutes": 89.00850794456392,
+        "auth_failure_rate": 0.02631578947368421,
+        "avg_data_downloaded": 24.15684210526316,
+        "std_data_downloaded": 14.021408493234219
+    },
+    "E025": {
+        "entity_id": "E025",
+        "department": "Finance",
+        "role": "Finance Manager",
+        "normal_source_ip": "10.108.21.232",
+        "normal_geo_location": [
+            18.5204,
+            73.8567
+        ],
+        "normal_device_id": "DEV025",
+        "normal_mac_address": "48:7e:3c:f4:13:ed",
+        "normal_os_version": "Windows 11",
+        "normal_resources": [
+            "Accounting System",
+            "Invoice System"
+        ],
+        "avg_working_start_hour": 10,
+        "avg_working_end_hour": 18,
+        "avg_events_per_day": 4.066666666666666,
+        "avg_event_gap_minutes": 93.47826086956522,
+        "std_event_gap_minutes": 83.14775386483008,
+        "auth_failure_rate": 0.03278688524590164,
+        "avg_data_downloaded": 24.05704918032787,
+        "std_data_downloaded": 14.478896109269375
+    },
+    "E026": {
+        "entity_id": "E026",
+        "department": "Finance",
+        "role": "Accountant",
+        "normal_source_ip": "192.168.1.121",
+        "normal_geo_location": [
+            19.076,
+            72.8777
+        ],
+        "normal_device_id": "DEV026",
+        "normal_mac_address": "7e:43:a4:2f:56:21",
+        "normal_os_version": "macOS",
+        "normal_resources": [
+            "Banking Portal",
+            "Invoice System",
+            "Accounting System"
+        ],
+        "avg_working_start_hour": 9,
+        "avg_working_end_hour": 17,
+        "avg_events_per_day": 4.266666666666667,
+        "avg_event_gap_minutes": 83.62244897959184,
+        "std_event_gap_minutes": 74.88362315367146,
+        "auth_failure_rate": 0.0,
+        "avg_data_downloaded": 24.45546875,
+        "std_data_downloaded": 14.21768959487928
+    },
+    "E027": {
+        "entity_id": "E027",
+        "department": "Finance",
+        "role": "Financial Analyst",
+        "normal_source_ip": "192.168.11.235",
+        "normal_geo_location": [
+            19.076,
+            72.8777
+        ],
+        "normal_device_id": "DEV027",
+        "normal_mac_address": "6e:a2:e3:8c:db:46",
+        "normal_os_version": "Windows 11",
+        "normal_resources": [
+            "Invoice System",
+            "Accounting System"
+        ],
+        "avg_working_start_hour": 8,
+        "avg_working_end_hour": 19,
+        "avg_events_per_day": 4.033333333333333,
+        "avg_event_gap_minutes": 128.23076923076923,
+        "std_event_gap_minutes": 127.56855036698913,
+        "auth_failure_rate": 0.03305785123966942,
+        "avg_data_downloaded": 23.786446280991736,
+        "std_data_downloaded": 13.460943680360609
+    },
+    "E028": {
+        "entity_id": "E028",
+        "department": "Finance",
+        "role": "Accountant",
+        "normal_source_ip": "192.168.133.64",
+        "normal_geo_location": [
+            19.076,
+            72.8777
+        ],
+        "normal_device_id": "DEV028",
+        "normal_mac_address": "12:70:5b:b9:6d:19",
+        "normal_os_version": "Windows 11",
+        "normal_resources": [
+            "Invoice System",
+            "Banking Portal",
+            "Payroll System"
+        ],
+        "avg_working_start_hour": 8,
+        "avg_working_end_hour": 18,
+        "avg_events_per_day": 4.1,
+        "avg_event_gap_minutes": 107.88172043010752,
+        "std_event_gap_minutes": 101.26652838386923,
+        "auth_failure_rate": 0.032520325203252036,
+        "avg_data_downloaded": 24.841788617886177,
+        "std_data_downloaded": 14.727491413407801
+    },
+    "E029": {
+        "entity_id": "E029",
+        "department": "Finance",
+        "role": "Accountant",
+        "normal_source_ip": "10.39.77.200",
+        "normal_geo_location": [
+            28.6139,
+            77.209
+        ],
+        "normal_device_id": "DEV029",
+        "normal_mac_address": "74:8b:c2:ba:ed:f8",
+        "normal_os_version": "Ubuntu Linux",
+        "normal_resources": [
+            "Invoice System",
+            "Financial Reports"
+        ],
+        "avg_working_start_hour": 9,
+        "avg_working_end_hour": 18,
+        "avg_events_per_day": 3.533333333333333,
+        "avg_event_gap_minutes": 113.64473684210526,
+        "std_event_gap_minutes": 94.14396124338772,
+        "auth_failure_rate": 0.018867924528301886,
+        "avg_data_downloaded": 24.835471698113206,
+        "std_data_downloaded": 13.375763877221793
+    },
+    "E030": {
+        "entity_id": "E030",
+        "department": "Finance",
+        "role": "Finance Manager",
+        "normal_source_ip": "10.72.214.254",
+        "normal_geo_location": [
+            17.385,
+            78.4867
+        ],
+        "normal_device_id": "DEV030",
+        "normal_mac_address": "4c:12:1d:8c:47:74",
+        "normal_os_version": "Windows 11",
+        "normal_resources": [
+            "Payroll System",
+            "Banking Portal",
+            "Invoice System",
+            "Accounting System",
+            "Financial Reports"
+        ],
+        "avg_working_start_hour": 10,
+        "avg_working_end_hour": 19,
+        "avg_events_per_day": 3.8333333333333335,
+        "avg_event_gap_minutes": 94.03529411764706,
+        "std_event_gap_minutes": 83.71713243599139,
+        "auth_failure_rate": 0.034782608695652174,
+        "avg_data_downloaded": 25.08104347826087,
+        "std_data_downloaded": 15.213218477543188
+    },
+    "E031": {
+        "entity_id": "E031",
+        "department": "Finance",
+        "role": "Finance Manager",
+        "normal_source_ip": "10.119.139.189",
+        "normal_geo_location": [
+            22.5726,
+            88.3639
+        ],
+        "normal_device_id": "DEV031",
+        "normal_mac_address": "e2:0c:41:61:a1:8f",
+        "normal_os_version": "Windows 10",
+        "normal_resources": [
+            "Accounting System",
+            "Invoice System"
+        ],
+        "avg_working_start_hour": 10,
+        "avg_working_end_hour": 19,
+        "avg_events_per_day": 3.466666666666667,
+        "avg_event_gap_minutes": 110.70270270270271,
+        "std_event_gap_minutes": 98.86780016973957,
+        "auth_failure_rate": 0.019230769230769232,
+        "avg_data_downloaded": 23.609423076923076,
+        "std_data_downloaded": 14.370395662910207
+    },
+    "E032": {
+        "entity_id": "E032",
+        "department": "Finance",
+        "role": "Accountant",
+        "normal_source_ip": "10.254.221.71",
+        "normal_geo_location": [
+            12.9716,
+            77.5946
+        ],
+        "normal_device_id": "DEV032",
+        "normal_mac_address": "42:3e:4b:9f:dd:a6",
+        "normal_os_version": "Windows 10",
+        "normal_resources": [
+            "Payroll System",
+            "Accounting System"
+        ],
+        "avg_working_start_hour": 10,
+        "avg_working_end_hour": 17,
+        "avg_events_per_day": 3.6,
+        "avg_event_gap_minutes": 88.44871794871794,
+        "std_event_gap_minutes": 79.79920375801328,
+        "auth_failure_rate": 0.009259259259259259,
+        "avg_data_downloaded": 22.35425925925926,
+        "std_data_downloaded": 15.351390098321652
+    },
+    "E033": {
+        "entity_id": "E033",
+        "department": "Finance",
+        "role": "Financial Analyst",
+        "normal_source_ip": "172.31.30.173",
+        "normal_geo_location": [
+            18.5204,
+            73.8567
+        ],
+        "normal_device_id": "DEV033",
+        "normal_mac_address": "32:fb:de:57:1c:90",
+        "normal_os_version": "macOS",
+        "normal_resources": [
+            "Banking Portal",
+            "Accounting System",
+            "Financial Reports"
+        ],
+        "avg_working_start_hour": 8,
+        "avg_working_end_hour": 18,
+        "avg_events_per_day": 3.8666666666666667,
+        "avg_event_gap_minutes": 118.52325581395348,
+        "std_event_gap_minutes": 99.69644831058704,
+        "auth_failure_rate": 0.04310344827586207,
+        "avg_data_downloaded": 24.755948275862067,
+        "std_data_downloaded": 15.0764156724248
+    },
+    "E034": {
+        "entity_id": "E034",
+        "department": "Finance",
+        "role": "Financial Analyst",
+        "normal_source_ip": "172.27.49.142",
+        "normal_geo_location": [
+            19.076,
+            72.8777
+        ],
+        "normal_device_id": "DEV034",
+        "normal_mac_address": "22:d0:6f:ef:cb:96",
+        "normal_os_version": "macOS",
+        "normal_resources": [
+            "Payroll System",
+            "Financial Reports",
+            "Banking Portal",
+            "Accounting System"
+        ],
+        "avg_working_start_hour": 10,
+        "avg_working_end_hour": 19,
+        "avg_events_per_day": 4.466666666666667,
+        "avg_event_gap_minutes": 93.11538461538461,
+        "std_event_gap_minutes": 78.38532006563717,
+        "auth_failure_rate": 0.029850746268656716,
+        "avg_data_downloaded": 24.14044776119403,
+        "std_data_downloaded": 14.23045341193599
+    },
+    "E035": {
+        "entity_id": "E035",
+        "department": "Finance",
+        "role": "Financial Analyst",
+        "normal_source_ip": "172.18.198.236",
+        "normal_geo_location": [
+            22.5726,
+            88.3639
+        ],
+        "normal_device_id": "DEV035",
+        "normal_mac_address": "f8:d6:a6:4b:e1:35",
+        "normal_os_version": "Windows 11",
+        "normal_resources": [
+            "Accounting System",
+            "Invoice System"
+        ],
+        "avg_working_start_hour": 10,
+        "avg_working_end_hour": 19,
+        "avg_events_per_day": 3.8,
+        "avg_event_gap_minutes": 101.35714285714286,
+        "std_event_gap_minutes": 89.67526997311148,
+        "auth_failure_rate": 0.043859649122807015,
+        "avg_data_downloaded": 26.605,
+        "std_data_downloaded": 14.556580074019015
+    },
+    "E036": {
+        "entity_id": "E036",
+        "department": "HR",
+        "role": "HR Executive",
+        "normal_source_ip": "10.194.39.44",
+        "normal_geo_location": [
+            12.9716,
+            77.5946
+        ],
+        "normal_device_id": "DEV036",
+        "normal_mac_address": "84:8d:b5:a3:7b:78",
+        "normal_os_version": "Windows 10",
+        "normal_resources": [
+            "Leave Management System",
+            "HR Documents",
+            "Employee Database"
+        ],
+        "avg_working_start_hour": 9,
+        "avg_working_end_hour": 17,
+        "avg_events_per_day": 4.5,
+        "avg_event_gap_minutes": 90.41904761904762,
+        "std_event_gap_minutes": 79.50009445475533,
+        "auth_failure_rate": 0.02962962962962963,
+        "avg_data_downloaded": 25.409777777777776,
+        "std_data_downloaded": 14.87851608847552
+    },
+    "E037": {
+        "entity_id": "E037",
+        "department": "HR",
+        "role": "Recruiter",
+        "normal_source_ip": "172.25.71.141",
+        "normal_geo_location": [
+            22.5726,
+            88.3639
+        ],
+        "normal_device_id": "DEV037",
+        "normal_mac_address": "64:eb:f4:a0:76:c8",
+        "normal_os_version": "Windows 11",
+        "normal_resources": [
+            "Payroll Portal",
+            "HR Documents",
+            "Leave Management System"
+        ],
+        "avg_working_start_hour": 10,
+        "avg_working_end_hour": 19,
+        "avg_events_per_day": 4.033333333333333,
+        "avg_event_gap_minutes": 90.75824175824175,
+        "std_event_gap_minutes": 77.90583213931214,
+        "auth_failure_rate": 0.01652892561983471,
+        "avg_data_downloaded": 25.77074380165289,
+        "std_data_downloaded": 14.360867787456836
+    },
+    "E038": {
+        "entity_id": "E038",
+        "department": "HR",
+        "role": "HR Manager",
+        "normal_source_ip": "10.49.215.140",
+        "normal_geo_location": [
+            12.9716,
+            77.5946
+        ],
+        "normal_device_id": "DEV038",
+        "normal_mac_address": "d8:55:c8:58:c8:e8",
+        "normal_os_version": "Windows 10",
+        "normal_resources": [
+            "Employee Database",
+            "Recruitment System",
+            "Payroll Portal",
+            "Leave Management System"
+        ],
+        "avg_working_start_hour": 8,
+        "avg_working_end_hour": 19,
+        "avg_events_per_day": 4.1,
+        "avg_event_gap_minutes": 129.05376344086022,
+        "std_event_gap_minutes": 118.84575001010836,
+        "auth_failure_rate": 0.0,
+        "avg_data_downloaded": 22.051951219512194,
+        "std_data_downloaded": 15.102740640362596
+    },
+    "E039": {
+        "entity_id": "E039",
+        "department": "HR",
+        "role": "Recruiter",
+        "normal_source_ip": "172.16.54.172",
+        "normal_geo_location": [
+            22.5726,
+            88.3639
+        ],
+        "normal_device_id": "DEV039",
+        "normal_mac_address": "ae:1f:51:25:ff:ec",
+        "normal_os_version": "Ubuntu Linux",
+        "normal_resources": [
+            "HR Documents",
+            "Recruitment System",
+            "Leave Management System"
+        ],
+        "avg_working_start_hour": 10,
+        "avg_working_end_hour": 18,
+        "avg_events_per_day": 4.333333333333333,
+        "avg_event_gap_minutes": 76.04,
+        "std_event_gap_minutes": 70.37603471797955,
+        "auth_failure_rate": 0.023076923076923078,
+        "avg_data_downloaded": 24.72323076923077,
+        "std_data_downloaded": 15.208840055632304
+    },
+    "E040": {
+        "entity_id": "E040",
+        "department": "HR",
+        "role": "Recruiter",
+        "normal_source_ip": "10.239.125.5",
+        "normal_geo_location": [
+            18.5204,
+            73.8567
+        ],
+        "normal_device_id": "DEV040",
+        "normal_mac_address": "8e:a0:de:4d:41:dc",
+        "normal_os_version": "macOS",
+        "normal_resources": [
+            "Payroll Portal",
+            "HR Documents"
+        ],
+        "avg_working_start_hour": 8,
+        "avg_working_end_hour": 17,
+        "avg_events_per_day": 4.466666666666667,
+        "avg_event_gap_minutes": 88.17307692307692,
+        "std_event_gap_minutes": 72.92374555773162,
+        "auth_failure_rate": 0.029850746268656716,
+        "avg_data_downloaded": 24.032761194029852,
+        "std_data_downloaded": 15.473862920158826
+    },
+    "E041": {
+        "entity_id": "E041",
+        "department": "HR",
+        "role": "HR Executive",
+        "normal_source_ip": "10.147.30.160",
+        "normal_geo_location": [
+            17.385,
+            78.4867
+        ],
+        "normal_device_id": "DEV041",
+        "normal_mac_address": "d4:42:a3:b0:31:42",
+        "normal_os_version": "Windows 11",
+        "normal_resources": [
+            "Recruitment System",
+            "Payroll Portal",
+            "HR Documents",
+            "Leave Management System"
+        ],
+        "avg_working_start_hour": 10,
+        "avg_working_end_hour": 17,
+        "avg_events_per_day": 4.233333333333333,
+        "avg_event_gap_minutes": 79.41237113402062,
+        "std_event_gap_minutes": 68.9297275880358,
+        "auth_failure_rate": 0.023622047244094488,
+        "avg_data_downloaded": 25.253779527559054,
+        "std_data_downloaded": 14.528461171593438
+    },
+    "E042": {
+        "entity_id": "E042",
+        "department": "HR",
+        "role": "HR Executive",
+        "normal_source_ip": "172.17.82.172",
+        "normal_geo_location": [
+            17.385,
+            78.4867
+        ],
+        "normal_device_id": "DEV042",
+        "normal_mac_address": "9e:1c:c2:a2:5d:10",
+        "normal_os_version": "Windows 10",
+        "normal_resources": [
+            "Leave Management System",
+            "Employee Database",
+            "Recruitment System"
+        ],
+        "avg_working_start_hour": 10,
+        "avg_working_end_hour": 19,
+        "avg_events_per_day": 4.333333333333333,
+        "avg_event_gap_minutes": 92.79,
+        "std_event_gap_minutes": 78.09619747853324,
+        "auth_failure_rate": 0.007692307692307693,
+        "avg_data_downloaded": 25.282615384615383,
+        "std_data_downloaded": 13.488250618024756
+    },
+    "E043": {
+        "entity_id": "E043",
+        "department": "HR",
+        "role": "Recruiter",
+        "normal_source_ip": "172.22.178.156",
+        "normal_geo_location": [
+            19.076,
+            72.8777
+        ],
+        "normal_device_id": "DEV043",
+        "normal_mac_address": "78:1d:ba:26:ba:03",
+        "normal_os_version": "Windows 10",
+        "normal_resources": [
+            "HR Documents",
+            "Leave Management System"
+        ],
+        "avg_working_start_hour": 8,
+        "avg_working_end_hour": 18,
+        "avg_events_per_day": 3.8,
+        "avg_event_gap_minutes": 109.41666666666667,
+        "std_event_gap_minutes": 90.696662221675,
+        "auth_failure_rate": 0.03508771929824561,
+        "avg_data_downloaded": 22.57456140350877,
+        "std_data_downloaded": 13.030379489060923
+    },
+    "E044": {
+        "entity_id": "E044",
+        "department": "HR",
+        "role": "HR Manager",
+        "normal_source_ip": "172.18.173.233",
+        "normal_geo_location": [
+            19.076,
+            72.8777
+        ],
+        "normal_device_id": "DEV044",
+        "normal_mac_address": "3e:3f:08:9e:09:d4",
+        "normal_os_version": "Windows 10",
+        "normal_resources": [
+            "HR Documents",
+            "Payroll Portal"
+        ],
+        "avg_working_start_hour": 10,
+        "avg_working_end_hour": 19,
+        "avg_events_per_day": 4.066666666666666,
+        "avg_event_gap_minutes": 98.09782608695652,
+        "std_event_gap_minutes": 99.44185553671456,
+        "auth_failure_rate": 0.03278688524590164,
+        "avg_data_downloaded": 22.966229508196722,
+        "std_data_downloaded": 13.46239404543241
+    },
+    "E045": {
+        "entity_id": "E045",
+        "department": "HR",
+        "role": "HR Executive",
+        "normal_source_ip": "192.168.187.32",
+        "normal_geo_location": [
+            19.076,
+            72.8777
+        ],
+        "normal_device_id": "DEV045",
+        "normal_mac_address": "00:ad:3b:ee:d6:0d",
+        "normal_os_version": "Ubuntu Linux",
+        "normal_resources": [
+            "Payroll Portal",
+            "Employee Database",
+            "Leave Management System"
+        ],
+        "avg_working_start_hour": 10,
+        "avg_working_end_hour": 18,
+        "avg_events_per_day": 3.533333333333333,
+        "avg_event_gap_minutes": 92.97368421052632,
+        "std_event_gap_minutes": 76.88050878850208,
+        "auth_failure_rate": 0.018867924528301886,
+        "avg_data_downloaded": 24.848490566037736,
+        "std_data_downloaded": 15.43901408105933
+    },
+    "E046": {
+        "entity_id": "E046",
+        "department": "Sales",
+        "role": "Sales Manager",
+        "normal_source_ip": "192.168.220.192",
+        "normal_geo_location": [
+            17.385,
+            78.4867
+        ],
+        "normal_device_id": "DEV046",
+        "normal_mac_address": "58:ce:67:04:29:29",
+        "normal_os_version": "Windows 11",
+        "normal_resources": [
+            "Customer Database",
+            "Sales Dashboard",
+            "Quotation System"
+        ],
+        "avg_working_start_hour": 8,
+        "avg_working_end_hour": 18,
+        "avg_events_per_day": 3.933333333333333,
+        "avg_event_gap_minutes": 112.44318181818181,
+        "std_event_gap_minutes": 106.32695811478655,
+        "auth_failure_rate": 0.05084745762711865,
+        "avg_data_downloaded": 27.185762711864406,
+        "std_data_downloaded": 14.634766964805188
+    },
+    "E047": {
+        "entity_id": "E047",
+        "department": "Sales",
+        "role": "Sales Analyst",
+        "normal_source_ip": "192.168.108.137",
+        "normal_geo_location": [
+            19.076,
+            72.8777
+        ],
+        "normal_device_id": "DEV047",
+        "normal_mac_address": "7a:74:b4:82:86:bf",
+        "normal_os_version": "Windows 11",
+        "normal_resources": [
+            "Sales Reports",
+            "Customer Database",
+            "Sales Dashboard"
+        ],
+        "avg_working_start_hour": 8,
+        "avg_working_end_hour": 17,
+        "avg_events_per_day": 4.166666666666667,
+        "avg_event_gap_minutes": 108.9578947368421,
+        "std_event_gap_minutes": 95.01533087825193,
+        "auth_failure_rate": 0.024,
+        "avg_data_downloaded": 24.81256,
+        "std_data_downloaded": 13.873368715729452
+    },
+    "E048": {
+        "entity_id": "E048",
+        "department": "Sales",
+        "role": "Sales Manager",
+        "normal_source_ip": "172.20.132.73",
+        "normal_geo_location": [
+            19.076,
+            72.8777
+        ],
+        "normal_device_id": "DEV048",
+        "normal_mac_address": "d4:c0:b9:76:a5:e8",
+        "normal_os_version": "Ubuntu Linux",
+        "normal_resources": [
+            "Customer Database",
+            "Quotation System",
+            "CRM",
+            "Sales Dashboard",
+            "Sales Reports"
+        ],
+        "avg_working_start_hour": 10,
+        "avg_working_end_hour": 19,
+        "avg_events_per_day": 4.066666666666666,
+        "avg_event_gap_minutes": 94.6195652173913,
+        "std_event_gap_minutes": 71.32079554191725,
+        "auth_failure_rate": 0.01639344262295082,
+        "avg_data_downloaded": 28.056147540983606,
+        "std_data_downloaded": 13.727957685904544
+    },
+    "E049": {
+        "entity_id": "E049",
+        "department": "Sales",
+        "role": "Sales Manager",
+        "normal_source_ip": "10.91.139.84",
+        "normal_geo_location": [
+            12.9716,
+            77.5946
+        ],
+        "normal_device_id": "DEV049",
+        "normal_mac_address": "6e:ef:0e:a7:70:c6",
+        "normal_os_version": "Windows 11",
+        "normal_resources": [
+            "CRM",
+            "Quotation System",
+            "Sales Dashboard",
+            "Sales Reports"
+        ],
+        "avg_working_start_hour": 10,
+        "avg_working_end_hour": 18,
+        "avg_events_per_day": 4.066666666666666,
+        "avg_event_gap_minutes": 90.44565217391305,
+        "std_event_gap_minutes": 75.18407654220448,
+        "auth_failure_rate": 0.02459016393442623,
+        "avg_data_downloaded": 24.632540983606557,
+        "std_data_downloaded": 14.450341501954195
+    },
+    "E050": {
+        "entity_id": "E050",
+        "department": "Sales",
+        "role": "Sales Executive",
+        "normal_source_ip": "172.21.50.155",
+        "normal_geo_location": [
+            12.9716,
+            77.5946
+        ],
+        "normal_device_id": "DEV050",
+        "normal_mac_address": "1a:d7:f4:aa:84:e0",
+        "normal_os_version": "macOS",
+        "normal_resources": [
+            "Customer Database",
+            "Quotation System",
+            "Sales Dashboard",
+            "CRM",
+            "Sales Reports"
+        ],
+        "avg_working_start_hour": 10,
+        "avg_working_end_hour": 17,
+        "avg_events_per_day": 3.8,
+        "avg_event_gap_minutes": 84.02380952380952,
+        "std_event_gap_minutes": 74.44444458716173,
+        "auth_failure_rate": 0.017543859649122806,
+        "avg_data_downloaded": 25.534824561403507,
+        "std_data_downloaded": 14.998268468346435
+    },
+    "E051": {
+        "entity_id": "E051",
+        "department": "Sales",
+        "role": "Sales Executive",
+        "normal_source_ip": "10.30.43.60",
+        "normal_geo_location": [
+            17.385,
+            78.4867
+        ],
+        "normal_device_id": "DEV051",
+        "normal_mac_address": "80:96:a7:81:7f:dd",
+        "normal_os_version": "macOS",
+        "normal_resources": [
+            "CRM",
+            "Sales Dashboard",
+            "Sales Reports",
+            "Customer Database",
+            "Quotation System"
+        ],
+        "avg_working_start_hour": 10,
+        "avg_working_end_hour": 18,
+        "avg_events_per_day": 3.8666666666666667,
+        "avg_event_gap_minutes": 85.8953488372093,
+        "std_event_gap_minutes": 73.15077564942271,
+        "auth_failure_rate": 0.02586206896551724,
+        "avg_data_downloaded": 23.363362068965518,
+        "std_data_downloaded": 14.874267943635763
+    },
+    "E052": {
+        "entity_id": "E052",
+        "department": "Sales",
+        "role": "Sales Manager",
+        "normal_source_ip": "192.168.71.58",
+        "normal_geo_location": [
+            18.5204,
+            73.8567
+        ],
+        "normal_device_id": "DEV052",
+        "normal_mac_address": "98:24:89:54:ac:b1",
+        "normal_os_version": "macOS",
+        "normal_resources": [
+            "Quotation System",
+            "Customer Database",
+            "Sales Reports",
+            "Sales Dashboard"
+        ],
+        "avg_working_start_hour": 9,
+        "avg_working_end_hour": 18,
+        "avg_events_per_day": 4.0,
+        "avg_event_gap_minutes": 101.4,
+        "std_event_gap_minutes": 96.04771754156275,
+        "auth_failure_rate": 0.008333333333333333,
+        "avg_data_downloaded": 26.130583333333334,
+        "std_data_downloaded": 15.330296816996038
+    },
+    "E053": {
+        "entity_id": "E053",
+        "department": "Sales",
+        "role": "Sales Manager",
+        "normal_source_ip": "192.168.208.234",
+        "normal_geo_location": [
+            19.076,
+            72.8777
+        ],
+        "normal_device_id": "DEV053",
+        "normal_mac_address": "32:c8:bd:9b:4e:81",
+        "normal_os_version": "macOS",
+        "normal_resources": [
+            "Sales Reports",
+            "Quotation System",
+            "Customer Database"
+        ],
+        "avg_working_start_hour": 10,
+        "avg_working_end_hour": 17,
+        "avg_events_per_day": 4.066666666666666,
+        "avg_event_gap_minutes": 86.05434782608695,
+        "std_event_gap_minutes": 65.82483651151591,
+        "auth_failure_rate": 0.02459016393442623,
+        "avg_data_downloaded": 22.905081967213114,
+        "std_data_downloaded": 13.829643885264213
+    },
+    "E054": {
+        "entity_id": "E054",
+        "department": "Sales",
+        "role": "Sales Analyst",
+        "normal_source_ip": "172.16.144.40",
+        "normal_geo_location": [
+            12.9716,
+            77.5946
+        ],
+        "normal_device_id": "DEV054",
+        "normal_mac_address": "14:e3:f9:99:2d:25",
+        "normal_os_version": "macOS",
+        "normal_resources": [
+            "Customer Database",
+            "Quotation System"
+        ],
+        "avg_working_start_hour": 8,
+        "avg_working_end_hour": 18,
+        "avg_events_per_day": 4.333333333333333,
+        "avg_event_gap_minutes": 107.17,
+        "std_event_gap_minutes": 85.76053753317896,
+        "auth_failure_rate": 0.015384615384615385,
+        "avg_data_downloaded": 26.541384615384615,
+        "std_data_downloaded": 13.707390795080725
+    },
+    "E055": {
+        "entity_id": "E055",
+        "department": "Sales",
+        "role": "Sales Analyst",
+        "normal_source_ip": "172.19.143.106",
+        "normal_geo_location": [
+            28.6139,
+            77.209
+        ],
+        "normal_device_id": "DEV055",
+        "normal_mac_address": "d4:c7:e4:c6:fd:69",
+        "normal_os_version": "macOS",
+        "normal_resources": [
+            "Sales Dashboard",
+            "Sales Reports",
+            "Customer Database",
+            "CRM",
+            "Quotation System"
+        ],
+        "avg_working_start_hour": 9,
+        "avg_working_end_hour": 19,
+        "avg_events_per_day": 4.133333333333334,
+        "avg_event_gap_minutes": 113.47872340425532,
+        "std_event_gap_minutes": 102.43799369956193,
+        "auth_failure_rate": 0.024193548387096774,
+        "avg_data_downloaded": 24.63,
+        "std_data_downloaded": 13.818497382809001
+    },
+    "E056": {
+        "entity_id": "E056",
+        "department": "Sales",
+        "role": "Sales Executive",
+        "normal_source_ip": "192.168.156.62",
+        "normal_geo_location": [
+            19.076,
+            72.8777
+        ],
+        "normal_device_id": "DEV056",
+        "normal_mac_address": "7e:df:64:36:35:9b",
+        "normal_os_version": "Ubuntu Linux",
+        "normal_resources": [
+            "Sales Dashboard",
+            "Quotation System",
+            "CRM",
+            "Customer Database"
+        ],
+        "avg_working_start_hour": 8,
+        "avg_working_end_hour": 17,
+        "avg_events_per_day": 4.233333333333333,
+        "avg_event_gap_minutes": 96.31958762886597,
+        "std_event_gap_minutes": 92.72636113764078,
+        "auth_failure_rate": 0.023622047244094488,
+        "avg_data_downloaded": 25.09015748031496,
+        "std_data_downloaded": 14.533902401716553
+    },
+    "E057": {
+        "entity_id": "E057",
+        "department": "Sales",
+        "role": "Sales Manager",
+        "normal_source_ip": "10.60.18.114",
+        "normal_geo_location": [
+            18.5204,
+            73.8567
+        ],
+        "normal_device_id": "DEV057",
+        "normal_mac_address": "f6:e2:d5:eb:f8:3f",
+        "normal_os_version": "Windows 10",
+        "normal_resources": [
+            "Sales Reports",
+            "Sales Dashboard",
+            "Customer Database",
+            "Quotation System",
+            "CRM"
+        ],
+        "avg_working_start_hour": 9,
+        "avg_working_end_hour": 17,
+        "avg_events_per_day": 3.933333333333333,
+        "avg_event_gap_minutes": 92.14772727272727,
+        "std_event_gap_minutes": 84.91301022293443,
+        "auth_failure_rate": 0.05084745762711865,
+        "avg_data_downloaded": 26.033474576271185,
+        "std_data_downloaded": 14.870589707590108
+    },
+    "E058": {
+        "entity_id": "E058",
+        "department": "Sales",
+        "role": "Sales Manager",
+        "normal_source_ip": "172.30.99.157",
+        "normal_geo_location": [
+            17.385,
+            78.4867
+        ],
+        "normal_device_id": "DEV058",
+        "normal_mac_address": "12:77:bc:c4:1e:1e",
+        "normal_os_version": "Ubuntu Linux",
+        "normal_resources": [
+            "CRM",
+            "Sales Reports"
+        ],
+        "avg_working_start_hour": 8,
+        "avg_working_end_hour": 17,
+        "avg_events_per_day": 4.233333333333333,
+        "avg_event_gap_minutes": 92.36082474226804,
+        "std_event_gap_minutes": 91.36615729750658,
+        "auth_failure_rate": 0.031496062992125984,
+        "avg_data_downloaded": 21.233858267716535,
+        "std_data_downloaded": 14.724554648572573
+    },
+    "E059": {
+        "entity_id": "E059",
+        "department": "Sales",
+        "role": "Sales Executive",
+        "normal_source_ip": "192.168.56.2",
+        "normal_geo_location": [
+            12.9716,
+            77.5946
+        ],
+        "normal_device_id": "DEV059",
+        "normal_mac_address": "d0:f7:6b:25:63:69",
+        "normal_os_version": "macOS",
+        "normal_resources": [
+            "CRM",
+            "Sales Reports",
+            "Quotation System"
+        ],
+        "avg_working_start_hour": 9,
+        "avg_working_end_hour": 19,
+        "avg_events_per_day": 4.166666666666667,
+        "avg_event_gap_minutes": 106.51578947368421,
+        "std_event_gap_minutes": 98.30628030823013,
+        "auth_failure_rate": 0.016,
+        "avg_data_downloaded": 25.9728,
+        "std_data_downloaded": 13.819962571724677
+    },
+    "E060": {
+        "entity_id": "E060",
+        "department": "Sales",
+        "role": "Sales Analyst",
+        "normal_source_ip": "172.17.117.14",
+        "normal_geo_location": [
+            12.9716,
+            77.5946
+        ],
+        "normal_device_id": "DEV060",
+        "normal_mac_address": "da:bc:9b:f9:9e:ea",
+        "normal_os_version": "macOS",
+        "normal_resources": [
+            "Quotation System",
+            "Sales Reports",
+            "CRM",
+            "Sales Dashboard",
+            "Customer Database"
+        ],
+        "avg_working_start_hour": 9,
+        "avg_working_end_hour": 17,
+        "avg_events_per_day": 3.5,
+        "avg_event_gap_minutes": 103.56,
+        "std_event_gap_minutes": 94.3915422230363,
+        "auth_failure_rate": 0.05714285714285714,
+        "avg_data_downloaded": 26.115142857142857,
+        "std_data_downloaded": 14.889790973004967
+    },
+    "E061": {
+        "entity_id": "E061",
+        "department": "Sales",
+        "role": "Sales Manager",
+        "normal_source_ip": "192.168.209.49",
+        "normal_geo_location": [
+            28.6139,
+            77.209
+        ],
+        "normal_device_id": "DEV061",
+        "normal_mac_address": "04:eb:42:09:a0:45",
+        "normal_os_version": "Windows 10",
+        "normal_resources": [
+            "Customer Database",
+            "Sales Reports",
+            "CRM"
+        ],
+        "avg_working_start_hour": 10,
+        "avg_working_end_hour": 18,
+        "avg_events_per_day": 3.7,
+        "avg_event_gap_minutes": 91.06172839506173,
+        "std_event_gap_minutes": 77.49618469302413,
+        "auth_failure_rate": 0.04504504504504504,
+        "avg_data_downloaded": 25.285945945945947,
+        "std_data_downloaded": 14.992454124924334
+    },
+    "E062": {
+        "entity_id": "E062",
+        "department": "Sales",
+        "role": "Sales Analyst",
+        "normal_source_ip": "10.85.20.106",
+        "normal_geo_location": [
+            22.5726,
+            88.3639
+        ],
+        "normal_device_id": "DEV062",
+        "normal_mac_address": "98:a3:55:11:fe:51",
+        "normal_os_version": "Windows 10",
+        "normal_resources": [
+            "Quotation System",
+            "CRM",
+            "Sales Reports",
+            "Customer Database"
+        ],
+        "avg_working_start_hour": 8,
+        "avg_working_end_hour": 18,
+        "avg_events_per_day": 4.133333333333334,
+        "avg_event_gap_minutes": 114.86170212765957,
+        "std_event_gap_minutes": 106.77537482041143,
+        "auth_failure_rate": 0.016129032258064516,
+        "avg_data_downloaded": 27.013951612903227,
+        "std_data_downloaded": 14.068824314459812
+    },
+    "E063": {
+        "entity_id": "E063",
+        "department": "Sales",
+        "role": "Sales Manager",
+        "normal_source_ip": "172.20.162.0",
+        "normal_geo_location": [
+            19.076,
+            72.8777
+        ],
+        "normal_device_id": "DEV063",
+        "normal_mac_address": "74:4f:eb:68:92:99",
+        "normal_os_version": "Ubuntu Linux",
+        "normal_resources": [
+            "Sales Reports",
+            "Quotation System"
+        ],
+        "avg_working_start_hour": 9,
+        "avg_working_end_hour": 19,
+        "avg_events_per_day": 4.1,
+        "avg_event_gap_minutes": 103.3763440860215,
+        "std_event_gap_minutes": 89.62844972179587,
+        "auth_failure_rate": 0.008130081300813009,
+        "avg_data_downloaded": 25.453739837398373,
+        "std_data_downloaded": 14.755509746063904
+    },
+    "E064": {
+        "entity_id": "E064",
+        "department": "Sales",
+        "role": "Sales Analyst",
+        "normal_source_ip": "172.29.211.157",
+        "normal_geo_location": [
+            18.5204,
+            73.8567
+        ],
+        "normal_device_id": "DEV064",
+        "normal_mac_address": "c0:05:bb:14:aa:ba",
+        "normal_os_version": "Ubuntu Linux",
+        "normal_resources": [
+            "Sales Reports",
+            "Quotation System",
+            "Customer Database"
+        ],
+        "avg_working_start_hour": 10,
+        "avg_working_end_hour": 17,
+        "avg_events_per_day": 4.466666666666667,
+        "avg_event_gap_minutes": 70.38461538461539,
+        "std_event_gap_minutes": 64.30756009434293,
+        "auth_failure_rate": 0.007462686567164179,
+        "avg_data_downloaded": 25.598432835820894,
+        "std_data_downloaded": 14.55187618601289
+    },
+    "E065": {
+        "entity_id": "E065",
+        "department": "Sales",
+        "role": "Sales Analyst",
+        "normal_source_ip": "192.168.41.30",
+        "normal_geo_location": [
+            18.5204,
+            73.8567
+        ],
+        "normal_device_id": "DEV065",
+        "normal_mac_address": "36:62:aa:0f:00:1e",
+        "normal_os_version": "macOS",
+        "normal_resources": [
+            "Customer Database",
+            "Sales Reports",
+            "Sales Dashboard",
+            "CRM"
+        ],
+        "avg_working_start_hour": 9,
+        "avg_working_end_hour": 17,
+        "avg_events_per_day": 3.466666666666667,
+        "avg_event_gap_minutes": 94.47297297297297,
+        "std_event_gap_minutes": 89.9248122726605,
+        "auth_failure_rate": 0.0,
+        "avg_data_downloaded": 23.005096153846154,
+        "std_data_downloaded": 14.141549742403704
+    },
+    "E066": {
+        "entity_id": "E066",
+        "department": "Marketing",
+        "role": "Content Specialist",
+        "normal_source_ip": "10.188.71.22",
+        "normal_geo_location": [
+            28.6139,
+            77.209
+        ],
+        "normal_device_id": "DEV066",
+        "normal_mac_address": "46:7d:d8:bf:57:76",
+        "normal_os_version": "Ubuntu Linux",
+        "normal_resources": [
+            "Analytics Portal",
+            "Content Repository"
+        ],
+        "avg_working_start_hour": 10,
+        "avg_working_end_hour": 19,
+        "avg_events_per_day": 3.966666666666667,
+        "avg_event_gap_minutes": 109.04494382022472,
+        "std_event_gap_minutes": 97.04414530983959,
+        "auth_failure_rate": 0.025210084033613446,
+        "avg_data_downloaded": 23.54218487394958,
+        "std_data_downloaded": 15.419136753940489
+    },
+    "E067": {
+        "entity_id": "E067",
+        "department": "Marketing",
+        "role": "Marketing Manager",
+        "normal_source_ip": "172.25.184.75",
+        "normal_geo_location": [
+            19.076,
+            72.8777
+        ],
+        "normal_device_id": "DEV067",
+        "normal_mac_address": "8c:1f:39:6b:10:6b",
+        "normal_os_version": "Windows 10",
+        "normal_resources": [
+            "Campaign Management System",
+            "Marketing Dashboard",
+            "Social Media Manager",
+            "Analytics Portal",
+            "Content Repository"
+        ],
+        "avg_working_start_hour": 10,
+        "avg_working_end_hour": 18,
+        "avg_events_per_day": 4.633333333333334,
+        "avg_event_gap_minutes": 87.10091743119266,
+        "std_event_gap_minutes": 77.36229641471311,
+        "auth_failure_rate": 0.02158273381294964,
+        "avg_data_downloaded": 24.876906474820142,
+        "std_data_downloaded": 14.7825369382853
+    },
+    "E068": {
+        "entity_id": "E068",
+        "department": "Marketing",
+        "role": "Content Specialist",
+        "normal_source_ip": "10.123.84.225",
+        "normal_geo_location": [
+            19.076,
+            72.8777
+        ],
+        "normal_device_id": "DEV068",
+        "normal_mac_address": "e6:4c:fb:df:56:18",
+        "normal_os_version": "Ubuntu Linux",
+        "normal_resources": [
+            "Content Repository",
+            "Analytics Portal"
+        ],
+        "avg_working_start_hour": 9,
+        "avg_working_end_hour": 17,
+        "avg_events_per_day": 3.8333333333333335,
+        "avg_event_gap_minutes": 94.23529411764706,
+        "std_event_gap_minutes": 87.10388530217176,
+        "auth_failure_rate": 0.0,
+        "avg_data_downloaded": 25.235565217391304,
+        "std_data_downloaded": 14.948866130286795
+    },
+    "E069": {
+        "entity_id": "E069",
+        "department": "Marketing",
+        "role": "Content Specialist",
+        "normal_source_ip": "192.168.155.82",
+        "normal_geo_location": [
+            22.5726,
+            88.3639
+        ],
+        "normal_device_id": "DEV069",
+        "normal_mac_address": "2e:af:9f:e1:39:d4",
+        "normal_os_version": "Windows 11",
+        "normal_resources": [
+            "Content Repository",
+            "Analytics Portal",
+            "Campaign Management System",
+            "Marketing Dashboard",
+            "Social Media Manager"
+        ],
+        "avg_working_start_hour": 8,
+        "avg_working_end_hour": 19,
+        "avg_events_per_day": 4.066666666666666,
+        "avg_event_gap_minutes": 129.66304347826087,
+        "std_event_gap_minutes": 126.48791604307965,
+        "auth_failure_rate": 0.02459016393442623,
+        "avg_data_downloaded": 26.562131147540985,
+        "std_data_downloaded": 14.627356134544288
+    },
+    "E070": {
+        "entity_id": "E070",
+        "department": "Marketing",
+        "role": "Content Specialist",
+        "normal_source_ip": "10.106.176.176",
+        "normal_geo_location": [
+            19.076,
+            72.8777
+        ],
+        "normal_device_id": "DEV070",
+        "normal_mac_address": "e0:55:c7:32:b9:8a",
+        "normal_os_version": "Windows 11",
+        "normal_resources": [
+            "Marketing Dashboard",
+            "Social Media Manager"
+        ],
+        "avg_working_start_hour": 8,
+        "avg_working_end_hour": 17,
+        "avg_events_per_day": 4.1,
+        "avg_event_gap_minutes": 97.06451612903226,
+        "std_event_gap_minutes": 84.90964589691451,
+        "auth_failure_rate": 0.008130081300813009,
+        "avg_data_downloaded": 26.973333333333333,
+        "std_data_downloaded": 14.916592019839477
+    },
+    "E071": {
+        "entity_id": "E071",
+        "department": "Marketing",
+        "role": "Marketing Manager",
+        "normal_source_ip": "172.24.109.138",
+        "normal_geo_location": [
+            19.076,
+            72.8777
+        ],
+        "normal_device_id": "DEV071",
+        "normal_mac_address": "6c:fa:1b:51:66:f1",
+        "normal_os_version": "Windows 10",
+        "normal_resources": [
+            "Campaign Management System",
+            "Analytics Portal",
+            "Content Repository"
+        ],
+        "avg_working_start_hour": 8,
+        "avg_working_end_hour": 19,
+        "avg_events_per_day": 3.8,
+        "avg_event_gap_minutes": 136.57142857142858,
+        "std_event_gap_minutes": 115.25490719127554,
+        "auth_failure_rate": 0.017543859649122806,
+        "avg_data_downloaded": 26.468245614035087,
+        "std_data_downloaded": 14.453927980415347
+    },
+    "E072": {
+        "entity_id": "E072",
+        "department": "Marketing",
+        "role": "Content Specialist",
+        "normal_source_ip": "10.248.89.122",
+        "normal_geo_location": [
+            17.385,
+            78.4867
+        ],
+        "normal_device_id": "DEV072",
+        "normal_mac_address": "0e:89:ca:45:e2:13",
+        "normal_os_version": "Windows 11",
+        "normal_resources": [
+            "Content Repository",
+            "Campaign Management System",
+            "Social Media Manager",
+            "Marketing Dashboard"
+        ],
+        "avg_working_start_hour": 8,
+        "avg_working_end_hour": 18,
+        "avg_events_per_day": 4.233333333333333,
+        "avg_event_gap_minutes": 113.0,
+        "std_event_gap_minutes": 88.80632015797075,
+        "auth_failure_rate": 0.0,
+        "avg_data_downloaded": 25.221259842519686,
+        "std_data_downloaded": 14.997748507858168
+    },
+    "E073": {
+        "entity_id": "E073",
+        "department": "Marketing",
+        "role": "Marketing Manager",
+        "normal_source_ip": "10.224.159.226",
+        "normal_geo_location": [
+            18.5204,
+            73.8567
+        ],
+        "normal_device_id": "DEV073",
+        "normal_mac_address": "38:45:e4:c8:9c:07",
+        "normal_os_version": "Windows 10",
+        "normal_resources": [
+            "Social Media Manager",
+            "Analytics Portal",
+            "Campaign Management System",
+            "Marketing Dashboard"
+        ],
+        "avg_working_start_hour": 8,
+        "avg_working_end_hour": 19,
+        "avg_events_per_day": 3.966666666666667,
+        "avg_event_gap_minutes": 121.33707865168539,
+        "std_event_gap_minutes": 113.6507752863434,
+        "auth_failure_rate": 0.008403361344537815,
+        "avg_data_downloaded": 24.264033613445378,
+        "std_data_downloaded": 14.444405715481576
+    },
+    "E074": {
+        "entity_id": "E074",
+        "department": "Marketing",
+        "role": "Marketing Executive",
+        "normal_source_ip": "192.168.189.205",
+        "normal_geo_location": [
+            17.385,
+            78.4867
+        ],
+        "normal_device_id": "DEV074",
+        "normal_mac_address": "e0:37:02:3c:59:46",
+        "normal_os_version": "Ubuntu Linux",
+        "normal_resources": [
+            "Social Media Manager",
+            "Marketing Dashboard",
+            "Content Repository",
+            "Analytics Portal"
+        ],
+        "avg_working_start_hour": 9,
+        "avg_working_end_hour": 19,
+        "avg_events_per_day": 4.433333333333334,
+        "avg_event_gap_minutes": 101.76699029126213,
+        "std_event_gap_minutes": 106.81385713542491,
+        "auth_failure_rate": 0.007518796992481203,
+        "avg_data_downloaded": 25.73293233082707,
+        "std_data_downloaded": 14.585350360007608
+    },
+    "E075": {
+        "entity_id": "E075",
+        "department": "Marketing",
+        "role": "Marketing Manager",
+        "normal_source_ip": "172.23.197.247",
+        "normal_geo_location": [
+            22.5726,
+            88.3639
+        ],
+        "normal_device_id": "DEV075",
+        "normal_mac_address": "94:41:8b:2d:c9:cd",
+        "normal_os_version": "Ubuntu Linux",
+        "normal_resources": [
+            "Social Media Manager",
+            "Content Repository"
+        ],
+        "avg_working_start_hour": 8,
+        "avg_working_end_hour": 18,
+        "avg_events_per_day": 4.266666666666667,
+        "avg_event_gap_minutes": 107.18367346938776,
+        "std_event_gap_minutes": 85.03053992764673,
+        "auth_failure_rate": 0.0234375,
+        "avg_data_downloaded": 25.01515625,
+        "std_data_downloaded": 13.910000197239565
+    },
+    "E076": {
+        "entity_id": "E076",
+        "department": "Marketing",
+        "role": "Marketing Executive",
+        "normal_source_ip": "10.128.207.132",
+        "normal_geo_location": [
+            28.6139,
+            77.209
+        ],
+        "normal_device_id": "DEV076",
+        "normal_mac_address": "16:86:eb:74:9f:d0",
+        "normal_os_version": "macOS",
+        "normal_resources": [
+            "Analytics Portal",
+            "Campaign Management System",
+            "Social Media Manager",
+            "Marketing Dashboard"
+        ],
+        "avg_working_start_hour": 10,
+        "avg_working_end_hour": 19,
+        "avg_events_per_day": 3.966666666666667,
+        "avg_event_gap_minutes": 99.11235955056179,
+        "std_event_gap_minutes": 96.1279259162506,
+        "auth_failure_rate": 0.01680672268907563,
+        "avg_data_downloaded": 26.053781512605042,
+        "std_data_downloaded": 13.450436133789374
+    },
+    "E077": {
+        "entity_id": "E077",
+        "department": "Marketing",
+        "role": "Marketing Manager",
+        "normal_source_ip": "192.168.211.252",
+        "normal_geo_location": [
+            12.9716,
+            77.5946
+        ],
+        "normal_device_id": "DEV077",
+        "normal_mac_address": "9e:65:1c:0d:c2:2b",
+        "normal_os_version": "macOS",
+        "normal_resources": [
+            "Analytics Portal",
+            "Social Media Manager",
+            "Content Repository",
+            "Campaign Management System",
+            "Marketing Dashboard"
+        ],
+        "avg_working_start_hour": 8,
+        "avg_working_end_hour": 17,
+        "avg_events_per_day": 3.7666666666666666,
+        "avg_event_gap_minutes": 100.32530120481928,
+        "std_event_gap_minutes": 84.04094652909218,
+        "auth_failure_rate": 0.02654867256637168,
+        "avg_data_downloaded": 25.350265486725664,
+        "std_data_downloaded": 14.20537671473231
+    },
+    "E078": {
+        "entity_id": "E078",
+        "department": "Marketing",
+        "role": "Content Specialist",
+        "normal_source_ip": "192.168.147.138",
+        "normal_geo_location": [
+            19.076,
+            72.8777
+        ],
+        "normal_device_id": "DEV078",
+        "normal_mac_address": "fc:73:0b:61:59:e8",
+        "normal_os_version": "Ubuntu Linux",
+        "normal_resources": [
+            "Social Media Manager",
+            "Analytics Portal",
+            "Campaign Management System",
+            "Marketing Dashboard",
+            "Content Repository"
+        ],
+        "avg_working_start_hour": 9,
+        "avg_working_end_hour": 17,
+        "avg_events_per_day": 3.9,
+        "avg_event_gap_minutes": 95.91954022988506,
+        "std_event_gap_minutes": 88.11926621832436,
+        "auth_failure_rate": 0.008547008547008548,
+        "avg_data_downloaded": 25.48025641025641,
+        "std_data_downloaded": 14.948860264566964
+    },
+    "E079": {
+        "entity_id": "E079",
+        "department": "Marketing",
+        "role": "Marketing Executive",
+        "normal_source_ip": "192.168.190.50",
+        "normal_geo_location": [
+            22.5726,
+            88.3639
+        ],
+        "normal_device_id": "DEV079",
+        "normal_mac_address": "ca:3a:89:2a:c6:6a",
+        "normal_os_version": "Windows 10",
+        "normal_resources": [
+            "Content Repository",
+            "Social Media Manager",
+            "Analytics Portal",
+            "Campaign Management System"
+        ],
+        "avg_working_start_hour": 10,
+        "avg_working_end_hour": 17,
+        "avg_events_per_day": 4.266666666666667,
+        "avg_event_gap_minutes": 83.8265306122449,
+        "std_event_gap_minutes": 61.07643099339389,
+        "auth_failure_rate": 0.0,
+        "avg_data_downloaded": 27.12390625,
+        "std_data_downloaded": 14.155334557405792
+    },
+    "E080": {
+        "entity_id": "E080",
+        "department": "Marketing",
+        "role": "Marketing Executive",
+        "normal_source_ip": "192.168.209.150",
+        "normal_geo_location": [
+            19.076,
+            72.8777
+        ],
+        "normal_device_id": "DEV080",
+        "normal_mac_address": "92:9c:fc:34:fc:5d",
+        "normal_os_version": "Windows 11",
+        "normal_resources": [
+            "Analytics Portal",
+            "Campaign Management System",
+            "Content Repository",
+            "Social Media Manager",
+            "Marketing Dashboard"
+        ],
+        "avg_working_start_hour": 9,
+        "avg_working_end_hour": 17,
+        "avg_events_per_day": 3.6333333333333333,
+        "avg_event_gap_minutes": 99.53164556962025,
+        "std_event_gap_minutes": 88.56126887467953,
+        "auth_failure_rate": 0.01834862385321101,
+        "avg_data_downloaded": 24.98926605504587,
+        "std_data_downloaded": 13.198449804204841
+    },
+    "E081": {
+        "entity_id": "E081",
+        "department": "Operations",
+        "role": "Operations Analyst",
+        "normal_source_ip": "172.23.121.59",
+        "normal_geo_location": [
+            19.076,
+            72.8777
+        ],
+        "normal_device_id": "DEV081",
+        "normal_mac_address": "62:35:91:34:45:30",
+        "normal_os_version": "macOS",
+        "normal_resources": [
+            "Inventory System",
+            "Order Management System",
+            "Operations Reports",
+            "Logistics Portal",
+            "Operations Dashboard"
+        ],
+        "avg_working_start_hour": 10,
+        "avg_working_end_hour": 19,
+        "avg_events_per_day": 3.6666666666666665,
+        "avg_event_gap_minutes": 109.6875,
+        "std_event_gap_minutes": 91.70116487395624,
+        "auth_failure_rate": 0.00909090909090909,
+        "avg_data_downloaded": 22.077,
+        "std_data_downloaded": 15.074913881416043
+    },
+    "E082": {
+        "entity_id": "E082",
+        "department": "Operations",
+        "role": "Operations Analyst",
+        "normal_source_ip": "192.168.109.234",
+        "normal_geo_location": [
+            17.385,
+            78.4867
+        ],
+        "normal_device_id": "DEV082",
+        "normal_mac_address": "60:ff:18:d2:89:46",
+        "normal_os_version": "Windows 11",
+        "normal_resources": [
+            "Order Management System",
+            "Operations Reports",
+            "Inventory System",
+            "Logistics Portal"
+        ],
+        "avg_working_start_hour": 9,
+        "avg_working_end_hour": 17,
+        "avg_events_per_day": 3.8,
+        "avg_event_gap_minutes": 98.55952380952381,
+        "std_event_gap_minutes": 84.78127083329112,
+        "auth_failure_rate": 0.02631578947368421,
+        "avg_data_downloaded": 23.09043859649123,
+        "std_data_downloaded": 15.408903034489015
+    },
+    "E083": {
+        "entity_id": "E083",
+        "department": "Operations",
+        "role": "Operations Manager",
+        "normal_source_ip": "172.27.166.222",
+        "normal_geo_location": [
+            19.076,
+            72.8777
+        ],
+        "normal_device_id": "DEV083",
+        "normal_mac_address": "92:f0:28:ae:93:eb",
+        "normal_os_version": "macOS",
+        "normal_resources": [
+            "Operations Dashboard",
+            "Inventory System",
+            "Logistics Portal",
+            "Order Management System"
+        ],
+        "avg_working_start_hour": 10,
+        "avg_working_end_hour": 18,
+        "avg_events_per_day": 3.466666666666667,
+        "avg_event_gap_minutes": 99.62162162162163,
+        "std_event_gap_minutes": 87.85256994903102,
+        "auth_failure_rate": 0.009615384615384616,
+        "avg_data_downloaded": 24.00471153846154,
+        "std_data_downloaded": 14.263404116947704
+    },
+    "E084": {
+        "entity_id": "E084",
+        "department": "Operations",
+        "role": "Operations Manager",
+        "normal_source_ip": "172.21.103.59",
+        "normal_geo_location": [
+            12.9716,
+            77.5946
+        ],
+        "normal_device_id": "DEV084",
+        "normal_mac_address": "d0:18:de:16:b8:3f",
+        "normal_os_version": "macOS",
+        "normal_resources": [
+            "Operations Dashboard",
+            "Inventory System",
+            "Operations Reports",
+            "Logistics Portal"
+        ],
+        "avg_working_start_hour": 9,
+        "avg_working_end_hour": 17,
+        "avg_events_per_day": 4.133333333333334,
+        "avg_event_gap_minutes": 94.55319148936171,
+        "std_event_gap_minutes": 86.5791473343653,
+        "auth_failure_rate": 0.016129032258064516,
+        "avg_data_downloaded": 24.53274193548387,
+        "std_data_downloaded": 14.605251274058578
+    },
+    "E085": {
+        "entity_id": "E085",
+        "department": "Operations",
+        "role": "Operations Executive",
+        "normal_source_ip": "192.168.42.133",
+        "normal_geo_location": [
+            17.385,
+            78.4867
+        ],
+        "normal_device_id": "DEV085",
+        "normal_mac_address": "ec:a3:3b:c2:c0:98",
+        "normal_os_version": "Windows 10",
+        "normal_resources": [
+            "Order Management System",
+            "Operations Dashboard",
+            "Operations Reports"
+        ],
+        "avg_working_start_hour": 10,
+        "avg_working_end_hour": 18,
+        "avg_events_per_day": 4.133333333333334,
+        "avg_event_gap_minutes": 88.85106382978724,
+        "std_event_gap_minutes": 79.5749403260119,
+        "auth_failure_rate": 0.008064516129032258,
+        "avg_data_downloaded": 25.20072580645161,
+        "std_data_downloaded": 14.650835330850127
+    },
+    "E086": {
+        "entity_id": "E086",
+        "department": "Operations",
+        "role": "Operations Manager",
+        "normal_source_ip": "10.98.90.1",
+        "normal_geo_location": [
+            28.6139,
+            77.209
+        ],
+        "normal_device_id": "DEV086",
+        "normal_mac_address": "d8:0e:6d:b5:93:05",
+        "normal_os_version": "Ubuntu Linux",
+        "normal_resources": [
+            "Operations Dashboard",
+            "Order Management System"
+        ],
+        "avg_working_start_hour": 9,
+        "avg_working_end_hour": 18,
+        "avg_events_per_day": 4.433333333333334,
+        "avg_event_gap_minutes": 96.32038834951456,
+        "std_event_gap_minutes": 80.82797195790637,
+        "auth_failure_rate": 0.03007518796992481,
+        "avg_data_downloaded": 23.78887218045113,
+        "std_data_downloaded": 14.719843731370338
+    },
+    "E087": {
+        "entity_id": "E087",
+        "department": "Operations",
+        "role": "Operations Analyst",
+        "normal_source_ip": "10.229.218.189",
+        "normal_geo_location": [
+            19.076,
+            72.8777
+        ],
+        "normal_device_id": "DEV087",
+        "normal_mac_address": "ae:43:d0:98:6d:8a",
+        "normal_os_version": "Ubuntu Linux",
+        "normal_resources": [
+            "Order Management System",
+            "Operations Reports"
+        ],
+        "avg_working_start_hour": 8,
+        "avg_working_end_hour": 17,
+        "avg_events_per_day": 4.033333333333333,
+        "avg_event_gap_minutes": 104.57142857142857,
+        "std_event_gap_minutes": 107.30000961552642,
+        "auth_failure_rate": 0.01652892561983471,
+        "avg_data_downloaded": 22.33289256198347,
+        "std_data_downloaded": 14.700680394572249
+    },
+    "E088": {
+        "entity_id": "E088",
+        "department": "Operations",
+        "role": "Operations Analyst",
+        "normal_source_ip": "172.23.115.88",
+        "normal_geo_location": [
+            18.5204,
+            73.8567
+        ],
+        "normal_device_id": "DEV088",
+        "normal_mac_address": "48:b4:b6:2d:22:ff",
+        "normal_os_version": "Windows 11",
+        "normal_resources": [
+            "Inventory System",
+            "Logistics Portal"
+        ],
+        "avg_working_start_hour": 10,
+        "avg_working_end_hour": 18,
+        "avg_events_per_day": 3.7333333333333334,
+        "avg_event_gap_minutes": 102.36585365853658,
+        "std_event_gap_minutes": 96.01858258872961,
+        "auth_failure_rate": 0.017857142857142856,
+        "avg_data_downloaded": 22.998214285714287,
+        "std_data_downloaded": 13.581355145688061
+    },
+    "E089": {
+        "entity_id": "E089",
+        "department": "Operations",
+        "role": "Operations Executive",
+        "normal_source_ip": "10.177.55.207",
+        "normal_geo_location": [
+            18.5204,
+            73.8567
+        ],
+        "normal_device_id": "DEV089",
+        "normal_mac_address": "a8:b2:8c:fc:04:f0",
+        "normal_os_version": "Ubuntu Linux",
+        "normal_resources": [
+            "Logistics Portal",
+            "Inventory System",
+            "Order Management System",
+            "Operations Reports",
+            "Operations Dashboard"
+        ],
+        "avg_working_start_hour": 9,
+        "avg_working_end_hour": 18,
+        "avg_events_per_day": 3.7,
+        "avg_event_gap_minutes": 102.90123456790124,
+        "std_event_gap_minutes": 89.52829230727453,
+        "auth_failure_rate": 0.02702702702702703,
+        "avg_data_downloaded": 23.945315315315316,
+        "std_data_downloaded": 13.984511030540494
+    },
+    "E090": {
+        "entity_id": "E090",
+        "department": "Operations",
+        "role": "Operations Analyst",
+        "normal_source_ip": "172.28.251.129",
+        "normal_geo_location": [
+            12.9716,
+            77.5946
+        ],
+        "normal_device_id": "DEV090",
+        "normal_mac_address": "28:91:90:eb:0e:3c",
+        "normal_os_version": "Windows 10",
+        "normal_resources": [
+            "Logistics Portal",
+            "Operations Dashboard"
+        ],
+        "avg_working_start_hour": 8,
+        "avg_working_end_hour": 19,
+        "avg_events_per_day": 4.533333333333333,
+        "avg_event_gap_minutes": 115.29245283018868,
+        "std_event_gap_minutes": 100.23685920108308,
+        "auth_failure_rate": 0.03676470588235294,
+        "avg_data_downloaded": 27.23308823529412,
+        "std_data_downloaded": 14.309199502143956
+    },
+    "E091": {
+        "entity_id": "E091",
+        "department": "Operations",
+        "role": "Operations Analyst",
+        "normal_source_ip": "172.16.107.65",
+        "normal_geo_location": [
+            17.385,
+            78.4867
+        ],
+        "normal_device_id": "DEV091",
+        "normal_mac_address": "54:6f:68:30:66:47",
+        "normal_os_version": "Windows 11",
+        "normal_resources": [
+            "Inventory System",
+            "Logistics Portal"
+        ],
+        "avg_working_start_hour": 8,
+        "avg_working_end_hour": 19,
+        "avg_events_per_day": 4.133333333333334,
+        "avg_event_gap_minutes": 111.84042553191489,
+        "std_event_gap_minutes": 103.05539831759238,
+        "auth_failure_rate": 0.0,
+        "avg_data_downloaded": 25.225564516129033,
+        "std_data_downloaded": 15.01978263525934
+    },
+    "E092": {
+        "entity_id": "E092",
+        "department": "Operations",
+        "role": "Operations Executive",
+        "normal_source_ip": "172.23.218.130",
+        "normal_geo_location": [
+            18.5204,
+            73.8567
+        ],
+        "normal_device_id": "DEV092",
+        "normal_mac_address": "dc:38:3c:ca:23:65",
+        "normal_os_version": "macOS",
+        "normal_resources": [
+            "Operations Reports",
+            "Logistics Portal",
+            "Inventory System",
+            "Operations Dashboard",
+            "Order Management System"
+        ],
+        "avg_working_start_hour": 9,
+        "avg_working_end_hour": 19,
+        "avg_events_per_day": 4.266666666666667,
+        "avg_event_gap_minutes": 106.08163265306122,
+        "std_event_gap_minutes": 90.44764658389236,
+        "auth_failure_rate": 0.0234375,
+        "avg_data_downloaded": 27.1103125,
+        "std_data_downloaded": 14.44289024543676
+    },
+    "E093": {
+        "entity_id": "E093",
+        "department": "Operations",
+        "role": "Operations Manager",
+        "normal_source_ip": "192.168.56.220",
+        "normal_geo_location": [
+            28.6139,
+            77.209
+        ],
+        "normal_device_id": "DEV093",
+        "normal_mac_address": "e0:0f:72:cf:ee:44",
+        "normal_os_version": "Windows 10",
+        "normal_resources": [
+            "Inventory System",
+            "Order Management System"
+        ],
+        "avg_working_start_hour": 10,
+        "avg_working_end_hour": 19,
+        "avg_events_per_day": 3.933333333333333,
+        "avg_event_gap_minutes": 94.02272727272727,
+        "std_event_gap_minutes": 95.62077604196325,
+        "auth_failure_rate": 0.025423728813559324,
+        "avg_data_downloaded": 24.46093220338983,
+        "std_data_downloaded": 12.97780873785671
+    },
+    "E094": {
+        "entity_id": "E094",
+        "department": "Operations",
+        "role": "Operations Analyst",
+        "normal_source_ip": "10.233.207.105",
+        "normal_geo_location": [
+            18.5204,
+            73.8567
+        ],
+        "normal_device_id": "DEV094",
+        "normal_mac_address": "50:e6:76:c6:23:ba",
+        "normal_os_version": "Windows 10",
+        "normal_resources": [
+            "Inventory System",
+            "Order Management System",
+            "Operations Dashboard"
+        ],
+        "avg_working_start_hour": 8,
+        "avg_working_end_hour": 17,
+        "avg_events_per_day": 4.3,
+        "avg_event_gap_minutes": 95.9090909090909,
+        "std_event_gap_minutes": 74.815431523604,
+        "auth_failure_rate": 0.007751937984496124,
+        "avg_data_downloaded": 25.75643410852713,
+        "std_data_downloaded": 15.808832618115025
+    },
+    "E095": {
+        "entity_id": "E095",
+        "department": "Operations",
+        "role": "Operations Analyst",
+        "normal_source_ip": "192.168.132.42",
+        "normal_geo_location": [
+            12.9716,
+            77.5946
+        ],
+        "normal_device_id": "DEV095",
+        "normal_mac_address": "52:fa:af:b1:d7:ef",
+        "normal_os_version": "macOS",
+        "normal_resources": [
+            "Operations Reports",
+            "Operations Dashboard",
+            "Inventory System",
+            "Order Management System"
+        ],
+        "avg_working_start_hour": 10,
+        "avg_working_end_hour": 18,
+        "avg_events_per_day": 3.9,
+        "avg_event_gap_minutes": 85.93103448275862,
+        "std_event_gap_minutes": 81.65736599358581,
+        "auth_failure_rate": 0.017094017094017096,
+        "avg_data_downloaded": 26.15940170940171,
+        "std_data_downloaded": 14.221718474330045
+    },
+    "E096": {
+        "entity_id": "E096",
+        "department": "Operations",
+        "role": "Operations Manager",
+        "normal_source_ip": "192.168.185.46",
+        "normal_geo_location": [
+            12.9716,
+            77.5946
+        ],
+        "normal_device_id": "DEV096",
+        "normal_mac_address": "32:b1:dd:15:14:71",
+        "normal_os_version": "macOS",
+        "normal_resources": [
+            "Operations Reports",
+            "Operations Dashboard",
+            "Order Management System",
+            "Logistics Portal",
+            "Inventory System"
+        ],
+        "avg_working_start_hour": 10,
+        "avg_working_end_hour": 18,
+        "avg_events_per_day": 3.8333333333333335,
+        "avg_event_gap_minutes": 94.82352941176471,
+        "std_event_gap_minutes": 70.89952254365869,
+        "auth_failure_rate": 0.017391304347826087,
+        "avg_data_downloaded": 26.793565217391304,
+        "std_data_downloaded": 14.605980221483202
+    },
+    "E097": {
+        "entity_id": "E097",
+        "department": "Operations",
+        "role": "Operations Executive",
+        "normal_source_ip": "172.19.251.80",
+        "normal_geo_location": [
+            18.5204,
+            73.8567
+        ],
+        "normal_device_id": "DEV097",
+        "normal_mac_address": "76:7b:e9:83:c2:c8",
+        "normal_os_version": "Windows 11",
+        "normal_resources": [
+            "Logistics Portal",
+            "Operations Dashboard",
+            "Order Management System"
+        ],
+        "avg_working_start_hour": 9,
+        "avg_working_end_hour": 19,
+        "avg_events_per_day": 3.9,
+        "avg_event_gap_minutes": 118.1264367816092,
+        "std_event_gap_minutes": 110.38366543694487,
+        "auth_failure_rate": 0.017094017094017096,
+        "avg_data_downloaded": 25.142735042735044,
+        "std_data_downloaded": 15.005894222623715
+    },
+    "E098": {
+        "entity_id": "E098",
+        "department": "Operations",
+        "role": "Operations Executive",
+        "normal_source_ip": "10.8.108.248",
+        "normal_geo_location": [
+            28.6139,
+            77.209
+        ],
+        "normal_device_id": "DEV098",
+        "normal_mac_address": "94:6e:9e:e9:36:29",
+        "normal_os_version": "macOS",
+        "normal_resources": [
+            "Order Management System",
+            "Inventory System",
+            "Logistics Portal",
+            "Operations Reports",
+            "Operations Dashboard"
+        ],
+        "avg_working_start_hour": 8,
+        "avg_working_end_hour": 18,
+        "avg_events_per_day": 4.133333333333334,
+        "avg_event_gap_minutes": 121.46808510638297,
+        "std_event_gap_minutes": 94.28949953825969,
+        "auth_failure_rate": 0.0,
+        "avg_data_downloaded": 27.108306451612904,
+        "std_data_downloaded": 13.681180696075073
+    },
+    "E099": {
+        "entity_id": "E099",
+        "department": "Operations",
+        "role": "Operations Analyst",
+        "normal_source_ip": "172.26.192.89",
+        "normal_geo_location": [
+            22.5726,
+            88.3639
+        ],
+        "normal_device_id": "DEV099",
+        "normal_mac_address": "20:c6:c7:9e:db:bc",
+        "normal_os_version": "macOS",
+        "normal_resources": [
+            "Operations Dashboard",
+            "Inventory System",
+            "Operations Reports",
+            "Order Management System"
+        ],
+        "avg_working_start_hour": 10,
+        "avg_working_end_hour": 18,
+        "avg_events_per_day": 3.933333333333333,
+        "avg_event_gap_minutes": 94.77272727272727,
+        "std_event_gap_minutes": 84.18244107639038,
+        "auth_failure_rate": 0.03389830508474576,
+        "avg_data_downloaded": 24.20822033898305,
+        "std_data_downloaded": 15.042797159384495
+    },
+    "E100": {
+        "entity_id": "E100",
+        "department": "Operations",
+        "role": "Operations Manager",
+        "normal_source_ip": "192.168.48.14",
+        "normal_geo_location": [
+            28.6139,
+            77.209
+        ],
+        "normal_device_id": "DEV100",
+        "normal_mac_address": "9a:03:59:c4:da:fe",
+        "normal_os_version": "macOS",
+        "normal_resources": [
+            "Operations Reports",
+            "Operations Dashboard"
+        ],
+        "avg_working_start_hour": 9,
+        "avg_working_end_hour": 18,
+        "avg_events_per_day": 4.233333333333333,
+        "avg_event_gap_minutes": 99.12371134020619,
+        "std_event_gap_minutes": 82.3750642048256,
+        "auth_failure_rate": 0.047244094488188976,
+        "avg_data_downloaded": 24.529370078740158,
+        "std_data_downloaded": 13.522630165177814
+    }
+}

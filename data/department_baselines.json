@@ -1,0 +1,148 @@
+{
+    "IT": {
+        "department": "IT",
+        "number_of_users": 20,
+        "roles": [
+            "DevOps Engineer",
+            "IT Support",
+            "Security Analyst",
+            "Software Developer",
+            "System Administrator"
+        ],
+        "normal_resources": [
+            "Code Repository",
+            "Development Server",
+            "Monitoring System",
+            "IT Helpdesk",
+            "Documentation Portal"
+        ],
+        "avg_working_start_hour": 8.8,
+        "avg_working_end_hour": 18.15,
+        "avg_events_per_day": 4,
+        "avg_event_gap_minutes": 106.16055555555556,
+        "std_event_gap_minutes": 93.57483294373098,
+        "auth_failure_rate": 0.023333333333333334,
+        "avg_data_downloaded": 24.777625,
+        "std_data_downloaded": 14.414025715713978
+    },
+    "Finance": {
+        "department": "Finance",
+        "number_of_users": 15,
+        "roles": [
+            "Accountant",
+            "Finance Manager",
+            "Financial Analyst"
+        ],
+        "normal_resources": [
+            "Accounting System",
+            "Payroll System",
+            "Financial Reports",
+            "Invoice System",
+            "Banking Portal"
+        ],
+        "avg_working_start_hour": 9.266666666666667,
+        "avg_working_end_hour": 18.266666666666666,
+        "avg_events_per_day": 3.9555555555555557,
+        "avg_event_gap_minutes": 102.61879699248121,
+        "std_event_gap_minutes": 93.66621705965153,
+        "auth_failure_rate": 0.02752808988764045,
+        "avg_data_downloaded": 24.33141011235955,
+        "std_data_downloaded": 14.402400059198998
+    },
+    "HR": {
+        "department": "HR",
+        "number_of_users": 10,
+        "roles": [
+            "HR Executive",
+            "HR Manager",
+            "Recruiter"
+        ],
+        "normal_resources": [
+            "Employee Database",
+            "Recruitment System",
+            "HR Documents",
+            "Payroll Portal",
+            "Leave Management System"
+        ],
+        "avg_working_start_hour": 9.3,
+        "avg_working_end_hour": 18.1,
+        "avg_events_per_day": 4.14,
+        "avg_event_gap_minutes": 94.26008492569002,
+        "std_event_gap_minutes": 85.14269624520657,
+        "auth_failure_rate": 0.021739130434782608,
+        "avg_data_downloaded": 24.314549114331722,
+        "std_data_downloaded": 14.53119270674861
+    },
+    "Sales": {
+        "department": "Sales",
+        "number_of_users": 20,
+        "roles": [
+            "Sales Analyst",
+            "Sales Executive",
+            "Sales Manager"
+        ],
+        "normal_resources": [
+            "CRM",
+            "Sales Dashboard",
+            "Customer Database",
+            "Sales Reports",
+            "Quotation System"
+        ],
+        "avg_working_start_hour": 9.05,
+        "avg_working_end_hour": 17.75,
+        "avg_events_per_day": 4.0183333333333335,
+        "avg_event_gap_minutes": 97.4815019326339,
+        "std_event_gap_minutes": 87.94898109936797,
+        "auth_failure_rate": 0.024056408129406886,
+        "avg_data_downloaded": 25.237250103691416,
+        "std_data_downloaded": 14.457783391972866
+    },
+    "Marketing": {
+        "department": "Marketing",
+        "number_of_users": 15,
+        "roles": [
+            "Content Specialist",
+            "Marketing Executive",
+            "Marketing Manager"
+        ],
+        "normal_resources": [
+            "Marketing Dashboard",
+            "Campaign Management System",
+            "Content Repository",
+            "Analytics Portal",
+            "Social Media Manager"
+        ],
+        "avg_working_start_hour": 8.8,
+        "avg_working_end_hour": 18,
+        "avg_events_per_day": 4.055555555555555,
+        "avg_event_gap_minutes": 104.69381818181819,
+        "std_event_gap_minutes": 95.03030274944436,
+        "auth_failure_rate": 0.0136986301369863,
+        "avg_data_downloaded": 25.53094794520548,
+        "std_data_downloaded": 14.466706712417315
+    },
+    "Operations": {
+        "department": "Operations",
+        "number_of_users": 20,
+        "roles": [
+            "Operations Analyst",
+            "Operations Executive",
+            "Operations Manager"
+        ],
+        "normal_resources": [
+            "Operations Dashboard",
+            "Inventory System",
+            "Order Management System",
+            "Operations Reports",
+            "Logistics Portal"
+        ],
+        "avg_working_start_hour": 9.15,
+        "avg_working_end_hour": 18.1,
+        "avg_events_per_day": 4.01,
+        "avg_event_gap_minutes": 101.83665559246954,
+        "std_event_gap_minutes": 90.18383445132153,
+        "auth_failure_rate": 0.019534497090606815,
+        "avg_data_downloaded": 24.834476309226932,
+        "std_data_downloaded": 14.524069907924945
+    }
+}
